@@ -1,0 +1,8 @@
+{
+  "home": {
+    "filter": "filter",
+    "content": "content",
+    "header": "header",
+    "footer": "footer"
+  }
+}
